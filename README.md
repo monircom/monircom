@@ -1,5 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20Fellow%20Developers%20🤠)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi, <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Md Monieuzzaman</h1>
+<h1 align="center">Hi, I'm Md Monieuzzaman</h1>
 <h3 align="center">A Web Developer (MERN) from Bangladesh</h3>
 <img align="right" alt="Coding" width="250" h="auto" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif">
 
