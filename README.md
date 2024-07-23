@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20🤠)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi, I'm Md Monieuzzaman</h1>
-<h3 align="center">A Web Developer (MERN) from Bangladesh</h3>
+<h1 align="center">Hi, I'm Md Moniruzzaman</h1>
+<h3 align="center">A Web Developer (Full Stack) from Bangladesh</h3>
 <img align="right" alt="Coding" width="250" h="auto" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif">
 
 [![wakatime](https://wakatime.com/badge/user/018e9584-7169-4db4-aad5-e38d7dd27d26.svg)](https://wakatime.com/@018e9584-7169-4db4-aad5-e38d7dd27d26)
